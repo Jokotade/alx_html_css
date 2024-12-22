@@ -120,3 +120,12 @@ border-radius: 50%;
     text-align: center;
     font-style: italic;
 }
+
+/* Quote-section */
+.quotes {
+    background: var(--primary-color);
+    height: max-content;
+    width: 100%;
+    padding: 110px 0;
+
+}
